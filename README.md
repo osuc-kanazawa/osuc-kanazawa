@@ -1,2 +1,2 @@
-# osuc-kanazawa
-Open Source Un Conference in Kanazawa 準備会
+# osunc-kanazawa
+Open Source UnConference in Kanazawa 準備会
